@@ -7,11 +7,33 @@ body {
     font-size: 16px; 
 }
 
-/* Plac */
+/* Adding BLAH for all the main page information */
+.maininfo {
 
+}
+
+/* Making boxes for ol list items */
+.stepone, .steptwo, .stepthree, .stepfour {
+    border: 7px double black;
+    background-color: antiquewhite;
+    position: relative;
+    width: 65%;
+}
 
 /*  */
+article {
+    border: 7px solid rgb(88, 84, 84);
+    background-color: antiquewhite;
+    width: 25%;
+    float: right;
+}
 
-/*  */
+/* Giving the footer a background color and changing the font */
+footer {
+    font-weight: bolder;
+    color: rgb(241, 230, 216);
+    background-color: rgb(88, 84, 84);
+    width: 25%;
+    position: static;
+}
 
-/*  */
